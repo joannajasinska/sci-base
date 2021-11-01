@@ -1,0 +1,470 @@
+[
+  {
+    "key": "DXC9H9PL",
+    "version": 927,
+    "library": {
+      "type": "user",
+      "id": 6109417,
+      "name": "joan151",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/joan151",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/6109417/items/DXC9H9PL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/joan151/items/DXC9H9PL",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/6109417/items/VQUV5WDZ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/6109417/items/DXC9H9PL/file/view",
+        "title": "Sek et al. - 2021 - Identification of the Large-Conductance Ca2+-Regul.pdf",
+        "length": 5656287
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "DXC9H9PL",
+      "version": 927,
+      "parentItem": "VQUV5WDZ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Sek et al. - 2021 - Identification of the Large-Conductance Ca2+-Regul.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Sek et al. - 2021 - Identification of the Large-Conductance Ca2+-Regul.pdf",
+      "md5": "3bf577d2e5e1a9df5e53516b4dd45b10",
+      "mtime": 1634209377645,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-10-14T11:02:52Z",
+      "dateModified": "2021-10-14T11:02:57Z"
+    }
+  },
+  {
+    "key": "VQUV5WDZ",
+    "version": 923,
+    "library": {
+      "type": "user",
+      "id": 6109417,
+      "name": "joan151",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/joan151",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/6109417/items/VQUV5WDZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/joan151/items/VQUV5WDZ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/6109417/items/DXC9H9PL",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 5656287
+      }
+    },
+    "meta": {
+      "creatorSummary": "Sek et al.",
+      "parsedDate": "2021-05-27",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "VQUV5WDZ",
+      "version": 923,
+      "itemType": "journalArticle",
+      "title": "Identification of the Large-Conductance Ca2+-Regulated Potassium Channel in Mitochondria of Human Bronchial Epithelial Cells",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Aleksandra",
+          "lastName": "Sek"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Rafal P.",
+          "lastName": "Kampa"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Bogusz",
+          "lastName": "Kulawiak"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Adam",
+          "lastName": "Szewczyk"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Piotr",
+          "lastName": "Bednarczyk"
+        }
+      ],
+      "abstractNote": "Mitochondria play a key role in energy metabolism within the cell. Potassium channels such as ATP-sensitive, voltage-gated or large-conductance Ca2+-regulated channels have been described in the inner mitochondrial membrane. Several hypotheses have been proposed to describe the important roles of mitochondrial potassium channels in cell survival and death pathways. In the current study, we identiﬁed two populations of mitochondrial large-conductance Ca2+-regulated potassium (mitoBKCa) channels in human bronchial epithelial (HBE) cells. The biophysical properties of the channels were characterized using the patch-clamp technique. We observed the activity of the channel with a mean conductance close to 285 pS in symmetric 150/150 mM KCl solution. Channel activity was increased upon application of the potassium channel opener NS11021 in the micromolar concentration range. The channel activity was completely inhibited by 1 µM paxilline and 300 nM iberiotoxin, selective inhibitors of the BKCa channels. Based on calcium and iberiotoxin modulation, we suggest that the C-terminus of the protein is localized to the mitochondrial matrix. Additionally, using RT-PCR, we conﬁrmed the presence of α pore-forming (Slo1) and auxiliary β3-β4 subunits of BKCa channel in HBE cells. Western blot analysis of cellular fractions conﬁrmed the mitochondrial localization of α pore-forming and predominately β3 subunits. Additionally, the regulation of oxygen consumption and membrane potential of human bronchial epithelial mitochondria in the presence of the potassium channel opener NS11021 and inhibitor paxilline were also studied. In summary, for the ﬁrst time, the electrophysiological and functional properties of the mitoBKCa channel in a bronchial epithelial cell line were described.",
+      "publicationTitle": "Molecules",
+      "volume": "26",
+      "issue": "11",
+      "pages": "3233",
+      "date": "2021-05-27",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Molecules",
+      "language": "en",
+      "DOI": "10.3390/molecules26113233",
+      "ISSN": "1420-3049",
+      "shortTitle": "",
+      "url": "https://www.mdpi.com/1420-3049/26/11/3233",
+      "accessDate": "2021-10-14T11:02:56Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "IKAUZHX4"
+      ],
+      "relations": {},
+      "dateAdded": "2021-10-14T11:02:56Z",
+      "dateModified": "2021-10-14T11:02:56Z"
+    }
+  },
+  {
+    "key": "4V4WSY5D",
+    "version": 925,
+    "library": {
+      "type": "user",
+      "id": 6109417,
+      "name": "joan151",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/joan151",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/6109417/items/4V4WSY5D",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/joan151/items/4V4WSY5D",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/6109417/items/IGVXCEXL",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/6109417/items/4V4WSY5D/file/view",
+        "title": "Kulawiak et al. - 2021 - Multidimensional Regulation of Cardiac Mitochondri.pdf",
+        "length": 1811242
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "4V4WSY5D",
+      "version": 925,
+      "parentItem": "IGVXCEXL",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Kulawiak et al. - 2021 - Multidimensional Regulation of Cardiac Mitochondri.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Kulawiak et al. - 2021 - Multidimensional Regulation of Cardiac Mitochondri.pdf",
+      "md5": "786787c1ee06029f3be8cfd523f21d83",
+      "mtime": 1634209182322,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-10-14T10:59:35Z",
+      "dateModified": "2021-10-14T10:59:42Z"
+    }
+  },
+  {
+    "key": "IGVXCEXL",
+    "version": 899,
+    "library": {
+      "type": "user",
+      "id": 6109417,
+      "name": "joan151",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/joan151",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/6109417/items/IGVXCEXL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/joan151/items/IGVXCEXL",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/6109417/items/4V4WSY5D",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 1811242
+      }
+    },
+    "meta": {
+      "creatorSummary": "Kulawiak et al.",
+      "parsedDate": "2021-06-19",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "IGVXCEXL",
+      "version": 899,
+      "itemType": "journalArticle",
+      "title": "Multidimensional Regulation of Cardiac Mitochondrial Potassium Channels",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Bogusz",
+          "lastName": "Kulawiak"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Piotr",
+          "lastName": "Bednarczyk"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Adam",
+          "lastName": "Szewczyk"
+        }
+      ],
+      "abstractNote": "Mitochondria play a fundamental role in the energetics of cardiac cells. Moreover, mitochondria are involved in cardiac ischemia/reperfusion injury by opening the mitochondrial permeability transition pore which is the major cause of cell death. The preservation of mitochondrial function is an essential component of the cardioprotective mechanism. The involvement of mitochondrial K+ transport in this complex phenomenon seems to be well established. Several mitochondrial K+ channels in the inner mitochondrial membrane, such as ATP-sensitive, voltage-regulated, calciumactivated and Na+-activated channels, have been discovered. This obliges us to ask the following question: why is the simple potassium ion inﬂux process carried out by several different mitochondrial potassium channels? In this review, we summarize the current knowledge of both the properties of mitochondrial potassium channels in cardiac mitochondria and the current understanding of their multidimensional functional role. We also critically summarize the pharmacological modulation of these proteins within the context of cardiac ischemia/reperfusion injury and cardioprotection.",
+      "publicationTitle": "Cells",
+      "volume": "10",
+      "issue": "6",
+      "pages": "1554",
+      "date": "2021-06-19",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "Cells",
+      "language": "en",
+      "DOI": "10.3390/cells10061554",
+      "ISSN": "2073-4409",
+      "shortTitle": "",
+      "url": "https://www.mdpi.com/2073-4409/10/6/1554",
+      "accessDate": "2021-10-14T10:59:42Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "IKAUZHX4"
+      ],
+      "relations": {},
+      "dateAdded": "2021-10-14T10:59:42Z",
+      "dateModified": "2021-10-14T10:59:42Z"
+    }
+  },
+  {
+    "key": "MEQMQYML",
+    "version": 926,
+    "library": {
+      "type": "user",
+      "id": 6109417,
+      "name": "joan151",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/joan151",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/6109417/items/MEQMQYML",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/joan151/items/MEQMQYML",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/6109417/items/EXR7IHLZ",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/6109417/items/MEQMQYML/file/view",
+        "title": "Bednarczyk et al. - 2013 - Putative Structural and Functional Coupling of the.pdf",
+        "length": 5169716
+      }
+    },
+    "meta": {
+      "numChildren": 0
+    },
+    "data": {
+      "key": "MEQMQYML",
+      "version": 926,
+      "parentItem": "EXR7IHLZ",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Bednarczyk et al. - 2013 - Putative Structural and Functional Coupling of the.pdf",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Bednarczyk et al. - 2013 - Putative Structural and Functional Coupling of the.pdf",
+      "md5": "85bf42519197ad17bcbd3bdf5d407734",
+      "mtime": 1634209178291,
+      "tags": [],
+      "relations": {},
+      "dateAdded": "2021-10-14T10:59:31Z",
+      "dateModified": "2021-10-14T10:59:38Z"
+    }
+  },
+  {
+    "key": "EXR7IHLZ",
+    "version": 899,
+    "library": {
+      "type": "user",
+      "id": 6109417,
+      "name": "joan151",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/joan151",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/6109417/items/EXR7IHLZ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/joan151/items/EXR7IHLZ",
+        "type": "text/html"
+      },
+      "attachment": {
+        "href": "https://api.zotero.org/users/6109417/items/MEQMQYML",
+        "type": "application/json",
+        "attachmentType": "application/pdf",
+        "attachmentSize": 5169716
+      }
+    },
+    "meta": {
+      "creatorSummary": "Bednarczyk et al.",
+      "parsedDate": "2013-06-27",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "EXR7IHLZ",
+      "version": 899,
+      "itemType": "journalArticle",
+      "title": "Putative Structural and Functional Coupling of the Mitochondrial BKCa Channel to the Respiratory Chain",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Piotr",
+          "lastName": "Bednarczyk"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Mariusz R.",
+          "lastName": "Wieckowski"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Malgorzata",
+          "lastName": "Broszkiewicz"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Krzysztof",
+          "lastName": "Skowronek"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Detlef",
+          "lastName": "Siemen"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Adam",
+          "lastName": "Szewczyk"
+        },
+        {
+          "creatorType": "editor",
+          "firstName": "Mika",
+          "lastName": "Jekabsons"
+        }
+      ],
+      "abstractNote": "Potassium channels have been found in the inner mitochondrial membranes of various cells. These channels regulate the mitochondrial membrane potential, the matrix volume and respiration. The activation of these channels is cytoprotective. In our study, the single-channel activity of a large-conductance Ca2+-regulated potassium channel (mitoBKCa channel) was measured by patch-clamping mitoplasts isolated from the human astrocytoma (glioblastoma) U-87 MG cell line. A potassium-selective current was recorded with a mean conductance of 290 pS in symmetrical 150 mM KCl solution. The channel was activated by Ca2+ at micromolar concentrations and by the potassium channel opener NS1619. The channel was inhibited by paxilline and iberiotoxin, known inhibitors of BKCa channels. Western blot analysis, immuno-gold electron microscopy, high-resolution immunofluorescence assays and polymerase chain reaction demonstrated the presence of the BKCa channel b4 subunit in the inner mitochondrial membrane of the human astrocytoma cells. We showed that substrates of the respiratory chain, such as NADH, succinate, and glutamate/malate, decrease the activity of the channel at positive voltages. This effect was abolished by rotenone, antimycin and cyanide, inhibitors of the respiratory chain. The putative interaction of the b4 subunit of mitoBKCa with cytochrome c oxidase was demonstrated using blue native electrophoresis. Our findings indicate possible structural and functional coupling of the mitoBKCa channel with the mitochondrial respiratory chain in human astrocytoma U-87 MG cells.",
+      "publicationTitle": "PLoS ONE",
+      "volume": "8",
+      "issue": "6",
+      "pages": "e68125",
+      "date": "2013-6-27",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "PLoS ONE",
+      "language": "en",
+      "DOI": "10.1371/journal.pone.0068125",
+      "ISSN": "1932-6203",
+      "shortTitle": "",
+      "url": "https://dx.plos.org/10.1371/journal.pone.0068125",
+      "accessDate": "2021-10-14T10:59:37Z",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "DOI.org (Crossref)",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [],
+      "collections": [
+        "IKAUZHX4"
+      ],
+      "relations": {},
+      "dateAdded": "2021-10-14T10:59:38Z",
+      "dateModified": "2021-10-14T10:59:38Z"
+    }
+  }
+]
